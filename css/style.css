@@ -1,0 +1,243 @@
+body {
+	background-color: #9c9c9c;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+#container {
+	width: 900px;
+	margin: 0 auto;
+}
+#header_forms {
+	float: right;
+	width: 30%;
+	margin-top: 50px;
+}
+#logo {
+	float: left;
+}
+.icon {
+	width: 30px;
+	float: right;
+	margin: 4px;
+}
+#get_updates {
+	float: left;
+	margin: 10px 10px 0px 10px;
+}
+#search {
+	float: left;
+	margin: 10px 0px 0px 10px;
+}
+nav {
+	clear: both;
+	height: 60px;
+	margin: 0 auto;
+	background-color: #646065;
+}
+#main_nav {
+	list-style-type: none;
+	text-transform: uppercase;
+	display: inline;
+	clear: both;
+}
+a:link, a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+.pages {
+	float: left;
+	width: 47%;
+	text-align: center;
+	font-family: 'Abel', sans-serif;
+	letter-spacing: 1.5px;
+	font-size: 1.7em;
+	margin-top: 14px;
+}
+#give {
+	background-color: #877a7a;
+	width: 35%;
+	float: right;
+	margin-top: 20px;
+	box-shadow: 0px 0px 3px #4b4b4b;
+}
+#paws_serves {
+	width: 60%;
+	float: left;
+}
+#direct_links {
+	clear: both;
+	float: left;
+	display: inline-block;
+	margin-left: 40px;
+	text-align: center;
+}
+#urgent, #meet, #updates, #facebook {
+	border: 5px solid #ffffff;
+	width: 20%;
+	float: left;
+	margin: 10px;
+	box-shadow: 0px 0px 5px #4b4b4b;
+}
+#urgent {
+	background-color: #ac0123;
+}
+#meet {
+	background-color: #53783f;
+}
+#updates {
+	background-color: #0091a0;
+}
+footer {
+	clear: both;
+	height: 110px;
+	margin: 0 auto;
+	font-size: 12px;
+	background-color: #646065;
+}
+.locations {
+	width: 30%;
+	float: left;
+	margin-left: 20px;
+	text-align: center;
+}
+ul.circle {
+	list-style-type: circle;
+}
+.script {
+	font-family: 'Shadows Into Light', cursive;
+}
+#medium_font {
+	font-size: 1.3em;
+}
+#large_font {
+	font-size: 1.75em;
+}
+.give_options {
+	text-transform: uppercase;
+	margin-top: 10px;
+	font-size: 0.8em;
+	font-family: 'Abel', sans-serif;
+	letter-spacing: 1.5px;
+}
+#donate {
+	height: 40px;
+	width: 75%;
+	box-shadow: 0px 0px 5px #4b4b4b;
+	border-radius: 5px;
+	margin: 0px 0px 20px 40px;
+	text-transform: uppercase;
+	background-color: green;
+	opacity: 0.7;
+	font-family: 'Abel', sans-serif;
+	letter-spacing: 1.5px;
+	font-size: 1em;
+}
+.uppercase_title {
+	text-transform: uppercase;
+	font-size: 1.25em;
+	font-weight: bold;
+}
+#facebook {
+	font-size: 0.8em;
+	padding: 0px 10px;
+	background-color: #548fa6;
+	opacity: 0.8;
+}
+.social_link {
+	text-transform: uppercase;
+}
+.direct_title {
+	text-transform: uppercase;
+	font-size: 1em;
+	font-weight: bold;
+	margin: 0px 10px;
+	color: #ffffff;
+}
+#front_top {
+	clear: both;
+	margin-top: 10px;
+}
+#paws_serves {
+	border: 5px solid #ffffff;
+	box-shadow: 0px 0px 5px #4b4b4b;
+	margin: 15px 0px;
+}
+#filter_pets {
+	clear: both;
+	float: left;
+	width: 60%;
+	margin-top: 20px;
+	text-align: center;
+}
+#adopt_head {
+	text-transform: uppercase;
+	font-size: 1.6em;
+}
+#filter_head {
+	text-transform: uppercase;
+	font-size: 1em;
+}
+#gallery {
+	width: 60%;
+	float: left;
+	margin-top: 20px;
+}
+#about_adoption, #donate_description {
+	width: 25%;
+	float: right;
+	font-size: 0.8em;
+	background-color: #ffffff;
+	opacity: 0.6;
+	padding: 10px;
+	margin: 20px 30px 20px 0px;
+}
+img.cats {
+	width: 100%;
+}
+figcaption {
+	font-size: 0.8em;
+	text-align: center;
+}
+figure {
+	float: left;
+	border: dashed 2px #ffffff;
+	width: 30%;
+	padding: 4px;
+	box-shadow: 0px 0px 5px #4b4b4b;
+}
+#filter_button, #submit_button {
+	height: 25px;
+	box-shadow: 0px 0px 5px #4b4b4b;
+	border-radius: 5px;
+	margin: 5px 0px 0px 5px;
+	text-transform: uppercase;
+	background-color: green;
+	opacity: 0.7;
+	font-family: 'Abel', sans-serif;
+	letter-spacing: 1.5px;
+	font-size: 0.8em;
+	color: #ffffff;
+}
+#donate_section {
+	width: 60%;
+	float: left;
+	background-color: #ffffff;
+	text-align: center;
+	font-size: 0.85em;
+	margin: 20px 0px 0px 10px;
+}
+#donate_description {
+	width: 30%;
+	float: right;
+}
+li {
+	list-style-type: none;
+}
+#donate_images {
+	width: 30%;
+	float: right;
+	margin-right: 60px;
+}
+ul.form {
+	text-align: right;
+	margin-right: 30%
+}
