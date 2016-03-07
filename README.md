@@ -1,0 +1,1 @@
+My group partner was https://github.com/erinmahon. This collaborative assignment was to choose a cause that our group really cared about and put together a small informational website using HTML/CSS, trying to convince people to donate to or help out this cause. This assignment also was our first extensive use of Git and Github.
